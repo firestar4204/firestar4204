@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firestar4204
+- 👋 Hi, I’m [@firestar4204](https://github.com/firestar4204)
 - 👀 I’m interested in ... Programming (everyone here is), Blender, gaming
 - 🌱 I’m currently learning ... C, Swift
 
