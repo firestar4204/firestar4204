@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&amp;logo=windowsxp&amp;logoColor=white" alt="Windows XP">
 <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&amp;logo=Raspberry-Pi" alt="Raspberry Pi">
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&amp;logo=vim&amp;logoColor=white" alt="Vim">
-<a href="https://replit.com/kindling4204"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&amp;logo=Replit&amp;logoColor=white" alt="Replit"></a>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code"></p>
 
 - 👋 Hi, I'm [@firestar4204](https://github.com/firestar4204)
