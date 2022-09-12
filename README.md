@@ -16,7 +16,7 @@
 - 👋 Hi, I'm [@firestar4204](https://github.com/firestar4204)
 - 👀 I'm interested in ... Programming (everyone here is), Blender, gaming, rowing
 - 🌱 I'm currently learning ... C, Swift, Autotools
-- 🕹 I'm playing ... Horizon: Zero Dawn, Portal 2, Minecraft
+- 🕹 I'm playing ... Horizon: Zero Dawn and Forbidden West, Portal 2, Minecraft, and UNDERTALE
 - I name everything after hound (I has 2 redbones)
 - Plain C purist (with some ASM)
 - I will use Java if I have to (i.e. Minecraft)
