@@ -25,7 +25,7 @@
 - I will use Java if I have to (i.e. Minecraft)
 - ~~Discord: `firestar4204#1739`~~ INACTIVE
 - I will sometimes be on libera as firestar4204
-- FIREFOX SUPREMACY
+- TRUMP 2024 🇺🇸 🇺🇸 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=firestar4204&theme=dark)](https://git.io/streak-stats)
