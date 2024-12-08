@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox">
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
 <a href="https://open.spotify.com/user/31zx6zwxqzuevsvic62t2ixvfb7q?si=812d538282654a56"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Link to my Spotify"></a>
-<img src="https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&amp;logo=alpine-linux&amp;logoColor=white" alt="Alpine Linux">
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&amp;logoColor=fff&amp;style=for-the-badge" alt="Arch">
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&amp;logo=macos&amp;logoColor=F0F0F0" alt="Mac OS">
 <img src="https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&amp;logo=windows95&amp;logoColor=white" alt="Windows 95">
