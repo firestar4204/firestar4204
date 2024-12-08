@@ -17,11 +17,10 @@
 
 - 👋 Hi, I'm [@firestar4204](https://github.com/firestar4204)
 - 👀 I'm interested in ... Programming (everyone here is), Blender, gaming, rowing
-- 🌱 I'm currently learning ... ncurses, Latin
+- 🌱 I'm currently learning ... ncurses, Finnish, Latin
 - 🕹 I'm playing ... Horizon: Zero Dawn and Forbidden West, Portal 2, Minecraft, and Halo: Reach
 - I name everything after hound (I has 2 redbones)
 - Plain C purist (with some ASM)
-- I will use Java if I have to (i.e. Minecraft)
 - ~~Discord: `firestar4204#1739`~~ INACTIVE
 - I will sometimes be on libera as firestar4204
 - TRUMP 2024 🇺🇸 🇺🇸 
